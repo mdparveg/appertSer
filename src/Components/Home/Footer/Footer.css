@@ -1,0 +1,17 @@
+.footer-bg{
+    background-color:  #275a53;
+    box-sizing: border-box;
+}
+.footer-bg h4{
+    color: #bcccc9;
+}
+.footer-bg p{
+    color: #bcccc9;
+}
+.footer-bg img{
+    height: 20px;
+      margin-top: 4px;
+}
+.footer-bg .socialIcon img{
+    margin-right: 10px;
+}
